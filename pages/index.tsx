@@ -7,9 +7,11 @@ const Home: NextPage = () => {
     <div className='flex bg-black w-screen text-gray-400'>
       <Head>
         <title>About</title>
+        <html lang='en'/>
         <meta property='og:title' content="Northern Stars Profile" />
         <meta property='og:url' content="https://northernstar.vercel.app/" />
         <meta property='og:type' content="article" />
+        <meta property='description' content='Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!'/>
         <meta property='og:description' content="Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!" />
         <meta property='twitter:card' content='summary' />
         <meta property='twitter:site' content='@NorthernStare' />
