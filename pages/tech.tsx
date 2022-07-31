@@ -13,7 +13,6 @@ const tech: NextPage = () => {
         <div className='flex bg-black text-gray-400 w-screen'>
             <Head>
                 <title>About</title>
-                <html lang='en'/>
                 <meta property='description' content='Tech Stack that Northern Star use!'/>
                 <meta property='og:title' content="Northern Stars Tech Stack" />
                 <meta property='og:url' content="https://northernstar.vercel.app/tech" />

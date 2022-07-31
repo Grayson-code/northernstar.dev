@@ -7,7 +7,6 @@ const Home: NextPage = () => {
     <div className='flex bg-black w-screen text-gray-400'>
       <Head>
         <title>About</title>
-        <html lang='en'/>
         <meta property='og:title' content="Northern Stars Profile" />
         <meta property='og:url' content="https://northernstar.vercel.app/" />
         <meta property='og:type' content="article" />
