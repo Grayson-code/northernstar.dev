@@ -10,7 +10,7 @@ const Home: NextPage = () => {
         <meta property='og:title' content="Northern Stars Profile" />
         <meta property='og:url' content="https://northernstar.vercel.app/" />
         <meta property='og:type' content="article" />
-        <meta property='og:description' content="Hello, I&apos;m a studemt living in India. I prefer RedWoodJS for my projects!" />
+        <meta property='og:description' content="Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!" />
         <meta property='twitter:card' content='summary' />
         <meta property='twitter:site' content='@NorthernStare' />
         <meta property='twitter:title' content='About' />
