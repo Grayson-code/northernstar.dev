@@ -40,7 +40,7 @@ const Home: NextPage = () => {
           </Link>
         </h1>
         <p className='flex flex-col justify-center items-center h-screen'>
-          Hello, I&apos;m a random dev living in Kerala. I prefer NextJS for my projects!
+          Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!
 
         </p>
       </article>
