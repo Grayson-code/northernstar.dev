@@ -26,7 +26,7 @@ const Home: NextPage = () => {
           >
             <strong className="text-sm font-medium"> Website Still Under Construction! </strong>
 
-            <p className="mt-1 text-xs">
+            <p className="hidden md:mt-1 2xl:text-xs 2xl:block">
               This Website is still under construction, will have heavy updates in the near future. Thanks!
             </p>
           </div>
