@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 const Home: NextPage = () => {
   return (
-    <div className='flex bg-black w-screen text-gray-400'>
+    <div className='flex bg-black  text-gray-400'>
       <Head>
         <title>About</title>
         <meta property='og:title' content="Northern Stars Profile" />
@@ -31,13 +31,13 @@ const Home: NextPage = () => {
             </p>
           </div>
         </div>
-        <h1 className='flex justify-center text-4xl font-bold text-center w-screen'>
+        <h1 className='flex justify-center text-4xl text-center w-screen bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 via-purple to-pink-900'>
           About
         </h1>
         <h1 className='flex justify-center'>
-          <a>About</a>
+          <a className='p-2 bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 via-purple to-pink-900'>About</a>
           <Link href={'/tech'} className="">
-            <a className='ml-2 underline font-bold'>Tech</a>
+            <a className='p-2 underline font-bold'>Tech</a>
           </Link>
         </h1>
         <p className='flex flex-col justify-center items-center h-screen'>

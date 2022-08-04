@@ -42,7 +42,7 @@ const tech: NextPage = () => {
                 </h1>
                 <h1 className='flex justify-center'>
                     <Link href={'/'} className="">
-                        <a className='mr-2 underline font-bold'>About</a>
+                        <a className='mr-2 underline font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 via-purple to-pink-900'>About</a>
                     </Link>
                     <a>Tech</a>
                 </h1>
