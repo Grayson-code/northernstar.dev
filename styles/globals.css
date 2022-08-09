@@ -6,3 +6,8 @@ html {
   @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
   font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 }
+
+section {
+  background-image: url('../public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png');
+  background-size: cover;
+}
