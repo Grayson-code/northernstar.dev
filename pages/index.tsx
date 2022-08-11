@@ -13,13 +13,13 @@ const Home: NextPage = () => {
           <meta property='og:type' content="article" /> 
           <meta name='description' content='Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!' />
           <meta property='og:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png'/>
-          <meta property='og:description' content="Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!" />
-          <meta property='twitter:card' content='summary' />
-          <meta property='twitter:site' content='@NorthernStare' />
-          <meta property='twitter:title' content='About' />
-          <meta property='twitter:description' content='Northern Stars Personal Website' />
-          <meta property='twitter:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png'/>
-          <meta property='twitter:url' content='https://northernstar.vercel.app' />
+          <meta name='og:description' content="Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!" />
+          <meta name='twitter:card' content='summary' />
+          <meta name='twitter:site' content='@NorthernStare' />
+          <meta name='twitter:title' content='About' />
+          <meta name='twitter:description' content='Northern Stars Personal Website' />
+          <meta name='twitter:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png'/>
+          <meta name='twitter:url' content='https://northernstar.vercel.app' />
         </Head>
         <article>
           <div className='absolute bottom-0 left-0'>
