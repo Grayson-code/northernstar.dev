@@ -12,11 +12,13 @@ const Home: NextPage = () => {
           <meta property='og:url' content="https://northernstar.vercel.app/" />
           <meta property='og:type' content="article" />
           <meta property='description' content='Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!' />
+          <meta property='og:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png'/>
           <meta property='og:description' content="Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!" />
           <meta property='twitter:card' content='summary' />
           <meta property='twitter:site' content='@NorthernStare' />
           <meta property='twitter:title' content='About' />
           <meta property='twitter:description' content='Northern Stars Personal Website' />
+          <meta property='twitter:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png'/>
           <meta property='twitter:url' content='https://northernstar.vercel.app' />
         </Head>
         <article>

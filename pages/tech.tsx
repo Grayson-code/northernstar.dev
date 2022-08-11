@@ -11,7 +11,7 @@ import Link from 'next/link'
 const tech: NextPage = () => {
     return (
         <section>
-            <div className='flex bg-black text-gray-400 w-screen bimg'>
+            <div className='flex bg-black text-white w-screen bimg'>
                 <Head>
                     <title>About</title>
                     <meta property='description' content='Tech Stack that Northern Star use!' />
