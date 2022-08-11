@@ -13,6 +13,7 @@ const tech: NextPage = () => {
         <section>
             <div className='flex bg-black text-white w-screen bimg'>
                 <Head>
+                    <html lang="en" />
                     <title>About</title>
                     <meta property='description' content='Tech Stack that Northern Star use!' />
                     <meta property='og:title' content="Northern Stars Tech Stack" />
