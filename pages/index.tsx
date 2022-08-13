@@ -7,19 +7,19 @@ const Home: NextPage = () => {
     <section>
       <div className='flex text-white'>
         <Head>
-          <html lang="en"/>
+          <html lang="en" />
           <title>About</title>
           <meta property='og:title' content="Northern Stars Profile" />
           <meta property='og:url' content="https://northernstar.vercel.app/" />
-          <meta property='og:type' content="article" /> 
+          <meta property='og:type' content="article" />
           <meta name='description' content='Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!' />
-          <meta property='og:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png'/>
+          <meta property='og:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png' />
           <meta name='og:description' content="Hello, I&apos;m a random dev, music producer living in Kerala. I prefer NextJS for my projects!" />
           <meta name='twitter:card' content='summary' />
           <meta name='twitter:site' content='@NorthernStare' />
           <meta name='twitter:title' content='About' />
           <meta name='twitter:description' content='Northern Stars Personal Website' />
-          <meta name='twitter:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png'/>
+          <meta name='twitter:image' content='/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png' />
           <meta name='twitter:url' content='https://northernstar.vercel.app' />
         </Head>
         <article>
