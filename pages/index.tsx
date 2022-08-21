@@ -20,6 +20,7 @@ const Home: NextPage = () => {
           <meta name="twitter:title" content="About" ></meta>
           <meta name="twitter:description" content="Northern Stars Personal Website"></meta>
           <meta name="twitter:image" content="/public/Porter Robinson & Kero Kero Bonito - _Unreleased 2019 Demo_ (Fan-Made Cover) 0-3 screenshot.png" ></meta>
+          <meta name="twitter:image:alt" content="a visualizer"></meta>
           <meta name="twitter:url" content="https://northernstar.vercel.app" ></meta>
         </Head>
         <article>
